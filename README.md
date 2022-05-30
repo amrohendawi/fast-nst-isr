@@ -18,6 +18,9 @@ streamlit run app.py
 http://localhost:8501
 ```
 
+![demo](images/demo.png)
+
+
 The colab notebooks contain different NST models that helped me through the research.
 These can be run by uploading them to the colab notebook.
 
